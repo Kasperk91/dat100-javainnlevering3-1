@@ -8,7 +8,7 @@ public abstract class Innlegg {
 	protected String bruker;
 	protected String dato;
 	protected int likes;
-	
+	 
 	public Innlegg() {
 		
 	}
