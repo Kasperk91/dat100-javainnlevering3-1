@@ -23,18 +23,10 @@ public class LesBlogg {
 
 	public static Blogg les(String mappe, String filnavn) {
 		
-		Blogg blogg = null;
+	}
+}
 
 		
 		
 		
-		try {
-			BufferedReader innlegg = new BufferedReader(new FileReader(mappe + "/" + filnavn));
-			String linje = reader.readLine(); 
-			
-		}
-		catch {
-			
-		}
-	}
-}
+		
